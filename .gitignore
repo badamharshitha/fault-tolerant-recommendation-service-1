@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage reports
+coverage/
+
+# Package lock backups
+*.lock
